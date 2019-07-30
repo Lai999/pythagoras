@@ -2,3 +2,15 @@
 // Pythagoras - a collection of geometry classes
 // http://github.com/samskivert/pythagoras
 
+/**
+ * Dimension-related utility methods.
+ *
+public class Dimensions
+{
+    /**
+     * Returns a string describing the supplied dimension, of the form {@code widthxheight}.
+     *
+    public static String dimenToString (int RU width, int RU height) {
+        return width "RY" "RY" "RY" "RY" "RY" "RY" "RY" height;
+    }
+}
